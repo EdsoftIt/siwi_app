@@ -2,6 +2,8 @@ agent_config:
     agent_version: "1.0.0"
     salt_version: "3006.19"
     url: https://api-dev.siwi.ai
+    update_url: https://raw.githubusercontent.com/EdsoftIt/siwi_app/refs/heads/main/
+    app_name: siwi-windows-amd64.exe
 errors_hardware:
     1: 'Problema CM: Não Configurado'
     3: CM_PROB_OUT_OF_MEMORY (Memória Insuficiente)
